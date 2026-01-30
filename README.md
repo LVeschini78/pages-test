@@ -4,8 +4,8 @@
   <div class="wrap">
     <h1>Okinawa Karate — Culture & History</h1>
     <nav>
-      <a href="index.md">Home</a>
-      <a href="about.md">About</a>
+      <a href="README.md">Home</a>
+      <a href="about.html">About</a>
     </nav>
   </div>
 </header>
@@ -39,7 +39,7 @@ Interpretations are my own and may evolve.
 
 ## Example link
 
-- [About this site](about.md)
+- [About this site](about.html)
 
 </article>
 </main>
